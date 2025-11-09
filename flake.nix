@@ -30,7 +30,7 @@
           shield = "wk_kinesis_%PART%";
 
           enableZmkStudio = true;
-          zephyrDepsHash = " ";
+          zephyrDepsHash = "sha256-IGyYY6MzYoHzVRlYioVy84GRH7ZN5uyQcarJIo5oHiQ=";
 
           meta = {
             description = "ZMK firmware";
