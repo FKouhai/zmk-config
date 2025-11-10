@@ -12,6 +12,8 @@ This project contains the complete ZMK (Zephyr Keyboard Firmware) configuration 
 - **Battery monitoring** with configurable reporting intervals
 - **Multi-layer keymaps** for enhanced productivity
 
+zmk config based on the [zmk-config-wk360](https://github.com/weekinro/zmk-config-wk360/tree/master)
+
 ## Hardware
 
 - **Microcontroller**: Nice!Nano v2
@@ -35,6 +37,8 @@ Function keys and numpad layer:
 System controls and Bluetooth device management:
 
 ![System Layer](assets/2025-11-09-222023_hyprshot.png)
+### Keyboard IRL
+![Keyboard](assets/keeb.jpg)
 
 ### Homerow Mods
 The keyboard implements homerow mods using hold-tap behavior:
@@ -44,7 +48,7 @@ The keyboard implements homerow mods using hold-tap behavior:
 - **F**: Left Ctrl when held, F when tapped
 - **J**: Right Ctrl when held, J when tapped
 - **K**: Right Shift when held, K when tapped
-- **L**: Right Alt when held, L when tapped
+-keyboard **L**: Right Alt when held, L when tapped
 - **;**: Right GUI when held, ; when tapped
 
 ### Bluetooth Management
