@@ -26,11 +26,11 @@
 
           src = ./.;
 
-          board = "nice_nano_v2";
+          board = "nice_nano";
           shield = "wk_kinesis_%PART%";
 
           enableZmkStudio = true;
-          zephyrDepsHash = "sha256-IGyYY6MzYoHzVRlYioVy84GRH7ZN5uyQcarJIo5oHiQ=";
+          zephyrDepsHash = "sha256-1g4maHOn3GsTOgjuokajQ5RxJFvxQ3HDfoLgHG4U0Pw=";
 
           meta = {
             description = "ZMK firmware";
